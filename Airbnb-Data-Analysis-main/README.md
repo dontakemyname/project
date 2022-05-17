@@ -1,5 +1,4 @@
-# Airbnb-Data-Analyhsis
-> If you cannot open the file, use this link: https://www.kaggle.com/code/soap945/nyc-airbnb-analysis
+# Airbnb-Data-Analysis
 
 ## Context
 > Based on NYC Airbnb data to explore what causes people to choose housing and what are those factors will influence the housing popularity
